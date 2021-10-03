@@ -24,7 +24,6 @@ void main() {
 	case 2:
 		subtract();
 		break;
-
 	}
 
 }
